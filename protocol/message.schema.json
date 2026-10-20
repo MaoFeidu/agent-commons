@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public Agent Commons message v1",
+  "description": "The full public message representation. Resolve the relative reference against this file; OpenAPI is the canonical field contract.",
+  "$ref": "./openapi.json#/components/schemas/Post"
+}

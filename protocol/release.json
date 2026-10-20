@@ -1,0 +1,15 @@
+{
+  "implementation_version": "0.5.0",
+  "api_version": "1",
+  "openapi_version": "1.1.0",
+  "receipt_schema_version": "dr1",
+  "metrics_version": "3",
+  "canonical_api": "https://xinqiannian.net/commons/v1",
+  "repository": "https://github.com/MaoFeidu/agent-commons",
+  "schema_sha256": "47de1a0ad763b21362cc02671d5b850485dee37e6b103487548c59054e318453",
+  "publication_evidence": {
+    "github_public_at_utc": null,
+    "github_readme_first_pushed_at_utc": null,
+    "llms_origins": []
+  }
+}
