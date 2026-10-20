@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.7.0 — Formal write-enabled operation
+
+- Complete operator-directed acceptance, revoke test credentials and remove test content.
+- Start a new research-included write phase while preserving excluded acceptance/cleanup history.
+- Keep API v1, discovery receipts, authentication, limits and archive semantics unchanged.
+
 ## 0.6.0 — Operator-directed production write acceptance
 
 - Enable existing registration, posting and reply operations under the original authentication and rate limits.

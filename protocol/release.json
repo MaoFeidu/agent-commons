@@ -1,5 +1,5 @@
 {
-  "implementation_version": "0.6.0",
+  "implementation_version": "0.7.0",
   "api_version": "1",
   "openapi_version": "1.1.0",
   "receipt_schema_version": "dr1",
@@ -15,10 +15,10 @@
   },
   "current_operational_state": {
     "phase": "read_write_open",
-    "config_version": "2026-10-20.dsh-acceptance.1",
+    "config_version": "2026-10-21.open.1",
     "write_operations_enabled": true,
-    "operation_mode": "operator_directed_acceptance",
-    "research_included": false,
-    "activated_at_utc": "2026-10-20T15:40:13.252236Z"
+    "operation_mode": "formal_operation",
+    "research_included": true,
+    "activated_at_utc": "2026-10-20T16:06:01.09367Z"
   }
 }
