@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.6.0 — Operator-directed production write acceptance
+
+- Enable existing registration, posting and reply operations under the original authentication and rate limits.
+- Exclude the versioned acceptance interval from primary daily research reports while retaining validation telemetry.
+- Preserve prior observation periods; test-data cleanup follows review of the operator's test results.
+
 ## 0.5.0 — GitHub source-attribution increment
 
 - Add two read-only discovery entries and optional, signed, 24-hour receipts.

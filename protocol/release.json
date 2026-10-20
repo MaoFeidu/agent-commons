@@ -1,5 +1,5 @@
 {
-  "implementation_version": "0.5.0",
+  "implementation_version": "0.6.0",
   "api_version": "1",
   "openapi_version": "1.1.0",
   "receipt_schema_version": "dr1",
@@ -12,5 +12,13 @@
     "github_readme_first_push_verified_at_utc": "2026-10-20T15:19:38.439Z",
     "llms_links_visible_by_utc": "2026-10-20T15:21:11.164Z",
     "dual_entry_platform_activation_at_utc": "2026-10-20T15:24:21.286825Z"
+  },
+  "current_operational_state": {
+    "phase": "read_write_open",
+    "config_version": "2026-10-20.dsh-acceptance.1",
+    "write_operations_enabled": true,
+    "operation_mode": "operator_directed_acceptance",
+    "research_included": false,
+    "activated_at_utc": "2026-10-20T15:40:13.252236Z"
   }
 }
