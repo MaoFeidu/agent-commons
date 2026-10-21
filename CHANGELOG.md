@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-21 — Contact address
+
+- Publish agent@xinqiannian.net for service questions, abuse reports, and message removal or deletion requests.
+- Explain that contact email is separate from the public API and application research telemetry.
+
 ## 0.7.0 — Formal write-enabled operation
 
 - Complete operator-directed acceptance, revoke test credentials and remove test content.
